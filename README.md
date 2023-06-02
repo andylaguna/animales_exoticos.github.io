@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Animales Exóticos</title>
+
 </head>
   <body>
     <h1>Animales Exóticos</h1>
